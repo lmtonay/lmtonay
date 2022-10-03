@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Labib Mahfuz Tonay</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h1>Hi 👋, I'm Labib Mahfuz Tonay</h1>
+<h3>A passionate full stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Gonitbid 2022**
 
