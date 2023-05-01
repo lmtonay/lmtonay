@@ -1,15 +1,15 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Labib Mahfuz Tonay</h1>
+<h1 align="center">Hi, I'm Labib Mahfuz Tonay</h1>
 <h3 align="center">A curious and hobbyist programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmtonay&label=Profile%20views&color=0e75b6&style=flat" alt="lmtonay" /> </p>
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [lmtonay.web.app](lmtonay.web.app)
+- All of my projects are available at [lmtonay.web.app](lmtonay.web.app)
 
-- ðŸ’¬ Ask me about **JavaScript, ReactJS, Flutter, NextJS**
+- Ask me about **JavaScript, ReactJS, Flutter, NextJS**
 
-- ðŸ“« How to reach me **lm.tonay1@gmail.com**
+- How to reach me **lm.tonay1@gmail.com**
 
-- âš¡ Fun fact **I thought HTML is a programming language and started learning programming with that haha ðŸ˜‚**
+- Fun fact **I thought HTML is a programming language and started learning programming with that haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
